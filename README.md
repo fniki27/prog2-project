@@ -1,1 +1,1 @@
-# prog2
+# platformer shooting game project in pygame (python)
