@@ -2,8 +2,6 @@
 
 This project is a platformer shooting game in Unity (C#). It was made for my Programming 2 class in university. The game is about a little creature, Blip that has to defeat other creatures while avoiding different obstacles, all in order to get to his family.
 
-# Progress
-
 ## Week 1: 
 Discovering Unity and learning the basics of C#.
 
